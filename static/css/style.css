@@ -1,0 +1,122 @@
+.blue {
+    color: orangered !important;
+}
+.gray {
+    color: dimgray !important;
+}
+
+.no-caps {
+    text-transform: none !important;
+}
+
+.hr {
+    border-bottom: solid 1px orangered !important;
+    width: 100%;
+}
+
+.hr {
+    border-bottom: dashed 0.5px dimgray !important;
+    width: 100%;
+}
+
+.white {
+    color: whitesmoke !important;
+}
+
+.btn-header {
+    border-radius: 20px;
+    margin-right: 15px;
+}
+
+.form-control {
+    border-radius: 20px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: gray;
+    background: transparent;
+    border: solid 1px gray;
+}
+
+.point {
+    cursor: pointer;
+}
+
+.form-control-small {
+    border-radius: 20px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: gray;
+    background: transparent;
+    border: solid 1px gray;
+}
+
+.btn-outline-primary {
+    color: #fff;
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+
+.btn-outline-primary:hover {
+    color: #000;
+    background-color: #fff;
+    border: solid 1px orangered;
+    cursor: pointer;
+    color:orangered;
+}
+
+.v-paginator button {
+    border-radius: 10px;
+    background: orangered;
+    color: white;
+}
+
+.v-paginator span {
+    color: gray;
+}
+
+.btn-md {
+    width: 30% !important;
+}
+
+.forgot-link {
+    text-transform: uppercase;
+    font-size: 9px;
+    padding-left: 15px;
+    letter-spacing: 2px;
+    color: gray;
+}
+
+.is-danger {
+    color: red;
+}
+
+
+
+.large-number {
+    font-size: xx-large;
+}
+
+.letter-spacing {
+    letter-spacing: 2px;
+}
+
+.left-border {
+    border-left: dotted 1px gray;
+}
+
+.is-notification {
+    color: green;
+}
+
