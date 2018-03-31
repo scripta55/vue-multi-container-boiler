@@ -12,17 +12,17 @@
   import './../static/css/style.css'
 
   export default {
-    name: 'fomo-payments',
+    name: 'scripta55',
     metaInfo: {
       link: [
-        { rel: 'canonical', href: 'https://fomopayments.com/' }
+        { rel: 'canonical', href: 'https://scripta55.com/' }
       ],
       script: [
         { src: 'https://platform.twitter.com/widgets.js', async: true },
         { src: 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=' }
       ],
       bodyAttrs: {
-        class: 'homepage'
+        class: 'home-page'
       }
     },
     methods: {},
@@ -45,11 +45,11 @@
     font-variant: petite-caps;
   }
 
-  .fomo-blue {
+  .blue {
     color: #1a87da;
   }
 
-  .fomo-green {
+  .green {
     color: forestgreen;
   }
 
@@ -57,11 +57,11 @@
     color: #1a87da;
   }
 
-  .fomo-white {
+  .white {
     color: whitesmoke;
   }
 
-  .fomo-space {
+  .space {
     margin-bottom: 250px !important;
   }
 

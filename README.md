@@ -6,9 +6,9 @@ npm install yarn
 yarn install
 
 # upgrade dependencies
-yarn upgrade
+yarn upgrade -f
 
-# serve with hot reload at localhost:8090
+# serve with hot reload at localhost:8055
 npm run dev
 
 # build for production with minification

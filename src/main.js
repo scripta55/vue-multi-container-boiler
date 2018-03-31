@@ -11,17 +11,12 @@ import routes from './routes'
 import vueSmoothScroll from 'vue-smooth-scroll'
 import moment from 'moment'
 import AppView from './App.vue'
-import VueClipboard from 'vue-clipboard2'
 
-var SocialSharing = require('vue-social-sharing')
-
-Vue.use(SocialSharing)
 Vue.use(vueSmoothScroll)
 Vue.use(VueRouter)
 Vue.use(VueMeta)
 Vue.use(VeeValidate)
 Vue.use(VueResource)
-Vue.use(VueClipboard)
 Vue.use(auth)
 
 var router = new VueRouter({

@@ -18,7 +18,7 @@
             <div class="col-lg-4">
               <dt>
               <h4 class="h4-market">RUN</h4></dt>
-              <dd>npm run dev will have you gone! then npm run build will have you a dist folder with the solution</dd>
+              <dd>first install dependencies with yarn upgrade -f then npm run dev will have you gone! then npm run build will have you a dist folder with the solution</dd>
             </div>
           </dl>
       </div>
