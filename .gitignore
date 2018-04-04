@@ -7,4 +7,3 @@ selenium-debug.log
 .idea/
 yarn-error.log
 *.pyc
-config/dev.env.js
